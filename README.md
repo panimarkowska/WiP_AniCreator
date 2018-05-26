@@ -1,1 +1,1 @@
-# WiP_AniCreator
+# ani-creator
